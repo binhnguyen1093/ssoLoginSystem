@@ -7,6 +7,7 @@ D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\LoginSystem.
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\LoginSystem.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\LoginSystem.pdb
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Humanizer.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.Build.Locator.dll
@@ -30,6 +31,12 @@ D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.Ex
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.OpenApi.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Mono.TextTemplating.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Npgsql.dll
@@ -43,6 +50,7 @@ D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.Compo
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.Composition.Hosting.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.Composition.Runtime.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.Text.Json.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -116,6 +124,7 @@ D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.csproj.CoreCompileInputs.cache
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.MvcApplicationPartsAssemblyInfo.cs
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.sourcelink.json
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\scopedcss\bundle\LoginSystem.styles.css
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\staticwebassets.build.json
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\staticwebassets.development.json
@@ -133,11 +142,3 @@ D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\refint\Login
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.pdb
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\LoginSystem.genruntimeconfig.cache
 D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\obj\Debug\net9.0\ref\LoginSystem.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
-D:\Nhi Dong 1\SSO Net Core\LoginSystem\LoginSystem\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

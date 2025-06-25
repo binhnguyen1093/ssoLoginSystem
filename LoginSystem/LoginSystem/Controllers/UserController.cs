@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using LoginSystem.DTOs;
 using LoginSystem.Helpers;
+using LoginSystem.Services;
 using System.IdentityModel.Tokens.Jwt;
 
 namespace LoginSystem.Controllers
@@ -11,10 +12,12 @@ namespace LoginSystem.Controllers
     public class UserController : ControllerBase
     {
         private readonly JwtHelper _jwtHelper;
+        private readonly UserService _userService;
 
-        public UserController(JwtHelper jwtHelper)
+        public UserController(JwtHelper jwtHelper, UserService userService)
         {
             _jwtHelper = jwtHelper;
+            _userService = userService;
         }
 
         [HttpGet("infoauth")]
@@ -45,9 +48,29 @@ namespace LoginSystem.Controllers
                 ApplicationName = claimsList.FirstOrDefault(c => c.Type == "application_name")?.Value ?? ""
             };
 
-
-
             return Ok(response);
+        }
+
+        [HttpPost("register")]
+        public IActionResult Register(UserRegisterDto dto)
+        {
+            try
+            {
+                var user = _userService.RegisterUser(dto);
+                return Ok(new
+                {
+                    message = "User registered successfully",
+                    user.Id,
+                    user.Username,
+                    user.RoleId,
+                    user.FullName,
+                    user.EmployeeCode
+                });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { error = ex.Message });
+            }
         }
     }
 }

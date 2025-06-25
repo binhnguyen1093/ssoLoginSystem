@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\data\\ssodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\data\\ssodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +35,20 @@
       "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\data\\ssodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\data\\ssodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\currentuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|solutionrelative:loginsystem\\dtos\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA130267-A050-423A-A1EB-BC3A431D95E4}|LoginSystem\\LoginSystem.csproj|d:\\nhi dong 1\\sso net core\\loginsystem\\loginsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,149 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\UserController.cs",
-              "RelativeToolTip": "LoginSystem\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T08:25:56.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "LoginSystem\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:37:50.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RolePermission.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\RolePermission.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Models\\RolePermission.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\RolePermission.cs",
-              "RelativeToolTip": "LoginSystem\\Models\\RolePermission.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:05:15.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\User.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Models\\User.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\User.cs",
-              "RelativeToolTip": "LoginSystem\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:05:53.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TokenResponse.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\TokenResponse.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\DTOs\\TokenResponse.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\TokenResponse.cs",
-              "RelativeToolTip": "LoginSystem\\DTOs\\TokenResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:32:55.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\DTOs\\LoginRequest.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\LoginRequest.cs",
-              "RelativeToolTip": "LoginSystem\\DTOs\\LoginRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:32:13.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SSODbContext.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Data\\SSODbContext.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Data\\SSODbContext.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Data\\SSODbContext.cs",
-              "RelativeToolTip": "LoginSystem\\Data\\SSODbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:10:37.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Helpers\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Helpers\\JwtHelper.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Helpers\\JwtHelper.cs",
-              "RelativeToolTip": "LoginSystem\\Helpers\\JwtHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T08:00:12.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Program.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Program.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Program.cs",
-              "RelativeToolTip": "LoginSystem\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:15:21.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "LoginSystem\\appsettings.json",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\appsettings.json",
-              "RelativeToolTip": "LoginSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T01:58:56.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "LoginSystem\\Models\\Role.cs",
-              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\Role.cs",
-              "RelativeToolTip": "LoginSystem\\Models\\Role.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T02:01:01.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "CurrentUserDto.cs",
               "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\CurrentUserDto.cs",
               "RelativeDocumentMoniker": "LoginSystem\\DTOs\\CurrentUserDto.cs",
@@ -241,7 +107,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "LoginSystem\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:40:29.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\DTOs\\TokenResponse.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\TokenResponse.cs",
+              "RelativeToolTip": "LoginSystem\\DTOs\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:32:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Services\\UserService.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "LoginSystem\\Services\\UserService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:41:57.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "LoginSystem\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:32:13.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LoginSystem\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:25:56.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LoginSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:37:50.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Program.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Program.cs",
+              "RelativeToolTip": "LoginSystem\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAC8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:15:21.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Models\\User.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\User.cs",
+              "RelativeToolTip": "LoginSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:05:53.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\RolePermission.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Models\\RolePermission.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\RolePermission.cs",
+              "RelativeToolTip": "LoginSystem\\Models\\RolePermission.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:05:15.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SSODbContext.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Data\\SSODbContext.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Data\\SSODbContext.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Data\\SSODbContext.cs",
+              "RelativeToolTip": "LoginSystem\\Data\\SSODbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:10:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginSystem\\appsettings.json",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\appsettings.json",
+              "RelativeToolTip": "LoginSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T01:58:56.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Helpers\\JwtHelper.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "LoginSystem\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:00:12.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "LoginSystem\\Models\\Role.cs",
+              "ToolTip": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\Role.cs",
+              "RelativeToolTip": "LoginSystem\\Models\\Role.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T02:01:01.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Permission.cs",
               "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\Permission.cs",
               "RelativeDocumentMoniker": "LoginSystem\\Models\\Permission.cs",
@@ -253,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Application.cs",
               "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\Models\\Application.cs",
               "RelativeDocumentMoniker": "LoginSystem\\Models\\Application.cs",
@@ -265,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "LoginSystem.csproj",
               "DocumentMoniker": "D:\\Nhi Dong 1\\SSO Net Core\\LoginSystem\\LoginSystem\\LoginSystem.csproj",
               "RelativeDocumentMoniker": "LoginSystem\\LoginSystem.csproj",

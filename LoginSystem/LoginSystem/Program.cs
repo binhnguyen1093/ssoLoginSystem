@@ -1,5 +1,6 @@
 ﻿using LoginSystem.Data;
 using LoginSystem.Helpers;
+using LoginSystem.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -44,6 +45,7 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 builder.Services.AddScoped<JwtHelper>();
+builder.Services.AddScoped<UserService>();
 
 var secretKey = builder.Configuration["Jwt:SecretKey"];
 var key = Encoding.UTF8.GetBytes(secretKey);
@@ -76,8 +78,10 @@ app.UseHttpsRedirection();
 
 app.UseAuthentication();
 
-// (Sẽ thêm UseAuthentication ở bước sau nếu dùng JWT)
+
 app.UseAuthorization();
+
+
 
 app.MapControllers();
 
